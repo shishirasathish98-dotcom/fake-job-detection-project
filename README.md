@@ -137,7 +137,7 @@ Fake-Job-Detection/
 
 1️⃣ Clone the repository
 
-git clone https://github.com/shishirasathish98-dotcom/fake-job-detection-eda.git
+git clone [Fake Job Detection.ipynb](https://github.com/shishirasathish98-dotcom/fake-job-detection-project.git)
 
 2️⃣ Open the project folder
 
