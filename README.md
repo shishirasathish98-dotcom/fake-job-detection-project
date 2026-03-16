@@ -1,4 +1,4 @@
-# Fake Job Detection using Exploratory Data Analysis
+# Fake Job Posting Detection using Exploratory Data Analysis
 Exploratory Data Analysis of Fake Job Postings dataset to identify patterns and indicators of fraudulent job listings using Python, Pandas, Seaborn and Plotly.
 
 <h2>🚨 Fake Job Detection using Exploratory Data Analysis</h2>
